@@ -1,0 +1,36 @@
+/*css reset 开始*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+input {
+    outline: none;
+}
+
+
+/*css reset 结束*/
+
+body {
+    background: #ffffff;
+    font-size: 16px;
+}
+
+.wrap {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
